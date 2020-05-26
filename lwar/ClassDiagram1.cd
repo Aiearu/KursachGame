@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lwar.baseClass">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAAAAAwAAAAAAAAAAAAAAAAAAAAAQAQAAAAA=</HashCode>
+      <FileName>Class\baseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lwar.circleClass">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAwAAAAAAAAAAAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\circleClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lwar.squareClass">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAxkAAEAAAAAAAAEAAQAAAAAAAgAABAA=</HashCode>
+      <FileName>Class\squareClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lwar.Game1">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAEVAAAEAAQwEADCAIAEkAAAEIAAgEIAAAJAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lwar.Program">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
